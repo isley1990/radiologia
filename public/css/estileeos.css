@@ -1,0 +1,36 @@
+body {
+    background-image: url('../ims/usimage201911120002145222829.jpg');
+}
+
+.carousel {
+
+height:860px;
+
+}
+
+.carousel-item{
+    width: 960px;
+    height: 860px;
+} 
+
+.carousel-item img{
+    width: 960px;
+    height: 860px;
+}
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    }
+    .contenido{
+    font-size: 20px;
+    }
+    #primero{
+    background-color: #ccc;
+    }
+    #segundo{
+    color:#44a359;
+    }
+    #tercero{
+    text-decoration:line-through;
+    }
